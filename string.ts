@@ -54,7 +54,7 @@ setobject([1,2])
 let str_length:number = (<string>in_name).length
 console.log(str_length);
 
-//解构
+//解构 
 function s_arr([n,m]:[number,string]):void{
     console.log(n+10+m);
 }
