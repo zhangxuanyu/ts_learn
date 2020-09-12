@@ -48,7 +48,7 @@ function setobject(obj:object|null|undefined):void{
 setobject({})
 setobject(null)
 setobject([1,2])
-
+ 
  
 //断言
 let str_length:number = (<string>in_name).length
