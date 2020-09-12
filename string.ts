@@ -59,11 +59,11 @@ function s_arr([n,m]:[number,string]):void{
     console.log(n+10+m);
 }
 
-s_arr([1,'1'])
+s_arr([1,'123'])
 
-function s_obj(obj:{a:string,b?:number}):void{
-    let {a,b=100} = obj
-}
+// function s_obj(obj:{a:string,b?:number}):void{
+//     // let {a,b=100} = obj
+// }
 
 
 

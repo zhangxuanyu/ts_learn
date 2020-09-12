@@ -48,4 +48,8 @@ function s_arr(_a) {
     var n = _a[0], m = _a[1];
     console.log(n + 10 + m);
 }
-s_arr([1, '1']);
+s_arr([1, '123']);
+// function s_obj(obj:{a:string,b?:number}):void{
+//     // let {a,b=100} = obj
+// }
+//# sourceMappingURL=string.js.map
